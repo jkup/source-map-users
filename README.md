@@ -5,6 +5,8 @@ A list of all source map users.
 ## Generators (tools that create .map files)
 
 + [gen-mapping](https://github.com/jridgewell/gen-mapping)
+  + [Babel](https://github.com/babel/babel)
+ 
 
 ## Consumers (tools that read in .map files)
 
