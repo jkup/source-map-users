@@ -7,6 +7,7 @@ A list of all source map users.
 + [Closure Compiler](https://github.com/google/closure-compiler/wiki/Source-Maps)
 + [gen-mapping](https://github.com/jridgewell/gen-mapping)
   + [Babel](https://github.com/babel/babel)
++ [Parcel](https://github.com/parcel-bundler/source-map)
 + Languages
   + [ClojureScript](https://clojurescript.org/reference/source-maps) ([code](https://github.com/clojure/clojurescript/blob/master/src/main/cljs/cljs/source_map.cljs))
   + [Dart](https://dart.dev/web/debugging) ([code](https://github.com/dart-lang/source_maps))
