@@ -4,10 +4,6 @@ A list of all source map users.
 
 ## Generators (tools that create .map files)
 
-+ [Closure Compiler](https://github.com/google/closure-compiler/wiki/Source-Maps)
-+ [gen-mapping](https://github.com/jridgewell/gen-mapping)
-  + [Babel](https://github.com/babel/babel)
-+ [Parcel](https://github.com/parcel-bundler/source-map)
 + Languages
   + [ClojureScript](https://clojurescript.org/reference/source-maps) ([code](https://github.com/clojure/clojurescript/blob/master/src/main/cljs/cljs/source_map.cljs))
   + [Dart](https://dart.dev/web/debugging) ([code](https://github.com/dart-lang/source_maps))
@@ -32,6 +28,13 @@ A list of all source map users.
 + [NodeJS](https://medium.com/the-node-js-collection/source-maps-in-node-js-5d0abe6ac34b)
 + [trace-mapping](https://github.com/jridgewell/trace-mapping)
 + [Webkit](https://github.com/WebKit/WebKit/)
+
+## Transformers (tools or libraries that can both consume and produce .map files)
+
++ [Babel](https://github.com/babel/babel) ([`inputSourceMap`](https://babeljs.io/docs/options#inputsourcemap) to consume)
++ [Closure Compiler](https://github.com/google/closure-compiler) (`--apply_input_source_maps --parse_inline_source_maps` to consume)
++ [Mozilla Sourcemap](https://github.com/mozilla/source-map)
++ [`@parcel/source-map`](https://github.com/parcel-bundler/source-map)
 
 ## Error monitoring tools 
 
