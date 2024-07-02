@@ -11,7 +11,7 @@ A list of all source map users.
   + [F#/Fable](https://fable.io/docs/getting-started/cli.html#options)
   + [Haxe](https://haxe.org/manual/debugging-source-map.html)
   + [Imba](https://github.com/imba/imba/blob/be25194d5de9cde6704519cebbd549d9e234b1fb/packages/imba/changelog.md?plain=1#L359) ([code](https://github.com/imba/imba/blob/be25194d5de9cde6704519cebbd549d9e234b1fb/packages/imba/src/compiler/sourcemap.imba1#L13))
-  + [Kotlin/JS](https://kotlinlang.org/docs/compiler-reference.html#source-map)
+  + [Kotlin](https://kotlinlang.org/docs/compiler-reference.html#source-map)
   + [Nim](https://github.com/nim-lang/Nim/pull/7508)
   + [PureScript/Spago](https://github.com/purescript/spago#enable-source-maps) ([code](https://github.com/purescript/purescript/blob/2070d479d133da9a7c33f7572ca7adb45a4c7aee/src/Language/PureScript/Make/Actions.hs#L286))
   + [TypeScript](https://www.typescriptlang.org/tsconfig/#sourceMap) ([code](https://github.com/microsoft/TypeScript/blob/main/src/compiler/sourcemap.ts))
