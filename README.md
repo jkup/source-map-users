@@ -40,6 +40,7 @@ A list of all source map users.
 
 + [Replay.io](https://replay.io/)
 + [Sentry](https://sentry.io/welcome/)
++ [Bugsink](https://www.bugsink.com/)
 
 ## Bundlers and build tools
 
